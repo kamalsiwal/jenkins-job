@@ -21,7 +21,7 @@
 			<url>http://15.206.28.12:8081/repository/package/</url>
 		</repository>
 		<snapshotRepository>
-			<id>snapshot</id>
+			<id>snapshots</id>
 			<url>http://15.206.28.12:8081/repository/snapshot/</url>
 		</snapshotRepository>		
   </distributionManagement>
